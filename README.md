@@ -24,5 +24,5 @@ RGGB CFA imagery from the [SSID-small dataset].
 Code collection of pansharpening.
 
 
-[1]: https://www.eecs.yorku.ca/~kamel/sidd/dataset.php/
-[2]: https://github.com/sjtrny/FuseBox/
+[1] https://www.eecs.yorku.ca/~kamel/sidd/dataset.php/
+[2] https://github.com/sjtrny/FuseBox/

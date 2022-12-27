@@ -19,10 +19,10 @@ Experiments in IEEE TIP manuscript: Luma-chroma Equalization in CFA Coding for L
 
 ## Acknowledgement
 
-RGGB CFA imagery from the [SSID-small dataset][1].
+RGGB CFA imagery from the [SSID-small dataset].
 
-Code collection of pansharpening [2].
+Code collection of pansharpening.
 
 
-[1]: https://www.eecs.yorku.ca/~kamel/sidd/dataset.php
-[2]: https://github.com/sjtrny/FuseBox/blob/master/README.md
+[1]: https://www.eecs.yorku.ca/~kamel/sidd/dataset.php/
+[2]: https://github.com/sjtrny/FuseBox/

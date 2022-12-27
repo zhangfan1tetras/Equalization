@@ -1,7 +1,7 @@
-Equalization
-============
+# Equalization
 Experiments in IEEE TIP manuscript: Luma-chroma Equalization in CFA Coding for Low-light Imaging
 
+## Content
 + NoiseComposition.m  -- Figure 4 CNR distribution for the raw patches with different SNR.
 
 + SNRLumaFusion.m     -- Figure 5 RGB-SNR gain from equalization with λ = 2 over patches.

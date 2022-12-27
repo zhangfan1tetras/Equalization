@@ -25,4 +25,5 @@ Code collection of pansharpening.
 
 
 [1] https://www.eecs.yorku.ca/~kamel/sidd/dataset.php/
+
 [2] https://github.com/sjtrny/FuseBox/

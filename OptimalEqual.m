@@ -13,8 +13,8 @@ CCM(:,:,4) = inv([ 3/4+1 3/2   3/4;...
 CCM(:,:,5) = inv([ 4/4+1 4/2   4/4;...
             4/4   4/2+1 4/4;...
             4/4   4/2   4/4+1]/5);
-load('.\sidd\mat\ValidationGtBlocksRaw.mat');
-load('.\sidd\mat\ValidationNoisyBlocksRaw.mat');
+load('.\image\ValidationGtBlocksRaw.mat');
+load('.\image\ValidationNoisyBlocksRaw.mat');
 gt = reshape(ValidationGtBlocksRaw,[],256,256);
 gt = shiftdim(gt,1);
 noisy = reshape(ValidationNoisyBlocksRaw,[],256,256);
